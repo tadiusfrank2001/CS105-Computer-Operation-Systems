@@ -1,9 +1,8 @@
 # CS105: Computer Systems
 
-This course provides a programmer’s view of how computer systems execute programs, store information, and
-communicate. It enables students to become more effective programmers, especially in dealing with issues of
-performance, portability, and robustness. It also serves as a foundation for courses on compilers, networks,
-operating systems, security, and computer architecture, where a deeper understanding of systems-level issues
-is required. Topics covered include: data representations, computer arithmetic, machine-level code and its
-generation, performance evaluation and optimization, memory organization and management, processes and
-concurrent computation, and networking technology and protocols.
+This course explores how computer systems execute programs, handle data storage, and facilitate communication from a programmer’s perspective. It enhances students’ ability to write efficient, portable, and reliable code while also serving as a foundation for advanced topics like compilers, networks, operating systems, security, and computer architecture. Key areas of focus include data representation, computer arithmetic, machine-level code generation, performance analysis and optimization, memory management, concurrent processing, and networking protocols.
+
+## Technology Utilized:
+
+`Languages`: C, Assembly, Python
+`Operation System`: GNU Linux, Ubuntu Linux
