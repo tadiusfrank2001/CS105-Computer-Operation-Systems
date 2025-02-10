@@ -5,4 +5,5 @@ This course explores how computer systems execute programs, handle data storage,
 ## Technology Utilized:
 
 `Languages`: C, Assembly, Python
+
 `Operation System`: GNU Linux, Ubuntu Linux
