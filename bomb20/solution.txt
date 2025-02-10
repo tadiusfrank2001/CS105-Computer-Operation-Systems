@@ -1,0 +1,8 @@
+And they have no disregard for human life.
+0 1 1 2 3 5
+3 -781
+36 3
+
+# Collaborators:
+# - Russell Omondi
+# - Chuck Lugai

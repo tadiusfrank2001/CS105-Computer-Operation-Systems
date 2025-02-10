@@ -1,0 +1,8 @@
+# q1
+x/1wf &puzzle1: 3.14159274
+x/1gf &puzzle2: 47.474747474747474
+x/1bs &puzzle3: "So far so good..."
+
+# q2
+
+# q3

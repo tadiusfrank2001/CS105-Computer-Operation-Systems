@@ -1,0 +1,11 @@
+# Collaborators:
+# - Omosh Otieno
+# - Chuck Lugai
+
+1. We worked on different solutions separately before we decided that mine was
+better, so Russell helped clean up bugs I somehow never saw when I was
+debugging. Implementation took me about 3 hours, debugging took like 10. No, I
+am not counting the late days because I didn't even have the know-how about this
+assignment!
+
+2. Bruh! 

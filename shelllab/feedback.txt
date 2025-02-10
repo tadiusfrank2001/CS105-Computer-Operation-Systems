@@ -1,0 +1,11 @@
+# Collaborators:
+# - Chuck Lugai
+# - Russel Otieno
+
+1. Took us about 10 hours to complete the tasks.
+
+2. Sometimes it was more difficult to understand the instructions than it was to implement the
+   task. For example:
+	To start with, have main call `check_jobs` before prompting the user and reading
+	the line (`check_jobs(WNOHANG)`).
+   This statement had us arguing over what it meant for over an hour! 

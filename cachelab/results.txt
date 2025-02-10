@@ -1,0 +1,19 @@
+# Collaborators:
+# - Chuck Lugai
+# - Omosh Otieno
+
+Len: 2, Answer: 3, Cache hits: 0.750000, Cache misses: 0.250000
+Len: 4, Answer: 38, Cache hits: 0.875000, Cache misses: 0.125000
+Len: 8, Answer: 364, Cache hits: 0.937500, Cache misses: 0.062500
+Len: 16, Answer: 3160, Cache hits: 0.968750, Cache misses: 0.031250
+Len: 32, Answer: 26288, Cache hits: 0.984375, Cache misses: 0.015625
+Len: 64, Answer: 214368, Cache hits: 0.984375, Cache misses: 0.015625
+Len: 128, Answer: 1731264, Cache hits: 0.984375, Cache misses: 0.015625
+Len: 256, Answer: 13915520, Cache hits: 0.984375, Cache misses: 0.015625
+Len: 512, Answer: 111586048, Cache hits: 0.984375, Cache misses: 0.015625
+Len: 1024, Answer: 893736448, Cache hits: 0.984375, Cache misses: 0.015625
+Len: 2048, Answer: 7154084864, Cache hits: 0.984375, Cache misses: 0.015625
+Len: 4096, Answer: 57249454080, Cache hits: 0.984375, Cache misses: 0.015625
+Len: 8192, Answer: 458062737408, Cache hits: 0.984375, Cache misses: 0.015625
+Len: 16384, Answer: 3664770326528, Cache hits: 0.000000, Cache misses: 1.000000
+Len: 32768, Answer: 29319236337664, Cache hits: 0.000000, Cache misses: 1.000000

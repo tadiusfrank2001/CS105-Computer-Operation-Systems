@@ -1,0 +1,9 @@
+# Collaborators
+# - Chuck Lugai
+# - Russel Omondi
+
+1. What does this question actually mean? From when we downloaded to when we submitted?
+   Because cummulatively, it was only a couple hours. Couple days if not.
+
+2. Without implementing any coalescing functionality, `search = bp` alone along with
+   `next_fit` improved the score from 59 to 67.  

@@ -1,0 +1,25 @@
+# Collaborators:
+# - Chuck Lugai
+# - Omosh Otieno
+
+1. The cache datablock has a capacity of 256 bytes and can therefore store 64 four-byte
+integers. Both vectors of length 2 carry a total of 4 integers and so after the first
+miss, all four integers can be stored in cache to allow 3 hit calls and a total of 4
+calls. We see that the cache miss rate is .25 against a hit rate of .75.
+
+2. The hit rate goes up - up to some point - as the vectors get longer because a 256
+byte datablock can store up to 64 integers in each of 256 cache lines. Before this
+limit is reached, the number of missed calls remains constant for increasingly more hits,
+which brings the cache hit rate up for increasingly longer vectors.
+
+3. The cache hit rate for very large vectors drops because they exceed the cache size.
+The operations drop off in performance since the processor has to retrieve data from
+lower down the memory mountain, to as far down as main memory.
+
+4. Assuming that "not making the cache any bigger" means we cannot increase the cache
+lines, one way to improve the cache hit rate for large vectors would be by increasing
+the size of the datablocks to improve on spatial locality. We could also increase the
+number of cache lines in each cache set for the same effect. Another way to improve on
+this would be to increase the number of caches o the same level so we can have a
+broader but shorter memory mountain. However, this might mean redesigning the hardware,
+which can have run-on effects.

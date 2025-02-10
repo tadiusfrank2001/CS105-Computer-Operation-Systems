@@ -1,0 +1,8 @@
+# Collaborators:
+# - Russell Omondi
+# - Chuck Lugai
+
+1. Idk about Russell, probably a couple of days. It took me (Call me Chuck Zuckerberg) a couple hours. Like 9, but that's whatever.
+Most of this was me wondering why my solution for `phase_3` didn't work. Turns out I needed a little (lot) more digging.
+
+2. It gets easy once you get the hang of it and aren't afraid of looking at the registers and following that silly arrow.
