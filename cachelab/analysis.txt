@@ -1,6 +1,4 @@
-# Collaborators:
-# - Chuck Lugai
-# - Omosh Otieno
+
 
 1. The cache datablock has a capacity of 256 bytes and can therefore store 64 four-byte
 integers. Both vectors of length 2 carry a total of 4 integers and so after the first
